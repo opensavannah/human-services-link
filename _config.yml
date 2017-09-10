@@ -3,8 +3,8 @@ description: "This is a Human Services Data Specification (HSDS) website, and AP
 url: https://adopta-agency.github.io/human-services-link/
 
 author:
-  name: 'Kin Lane'
-  email: 'info@apievangelist.com'
+  name: 'Carl V. Lewis'
+  email: 'yall@opensavannah.org'
 markdown: kramdown
 
 permalink: /:categories/:year/:month/:day/:title/
@@ -15,7 +15,7 @@ post_color: 0000ff;
 put_color: FF0080;
 delete_color: FF9900;
 
-github_org: adopta-agency
+github_org: opensavannah
 github_repo: human-services-link
 github_branch: master
 
